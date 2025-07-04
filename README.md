@@ -26,8 +26,8 @@ A web-based automated file management system for IIUI with multi-office workflow
 ## **📥 Installation**  
 1. **Clone the repo:**  
    ```bash
-   git clone https://github.com/your-username/SFTS-IIUI.git
-   cd SFTS-IIUI
+   git clone https://github.com/saadishaq2/Smart-File-Tracker-IIUI.git
+   cd Smart-File-Tracker-IIUI
    ```
 2. **Install dependencies:**  
    ```bash
@@ -121,7 +121,7 @@ MIT © [Saad Ishaq]
 
 ## **📞 Contact**  
 - **Saad Ishaq** – [chsaadishaq857@gmail.com]  
-- **Project Link:** [https://github.com/saadishaq2/SFTS-IIUI](https://github.com/saadishaq2/SFTS-IIUI)  
+- **Project Link:** [https://github.com/saadishaq2/SFTS-IIUI](https://github.com/saadishaq2/Smart-File-Tracker-IIUI)  
 
 
 ### **🎉 Thank You!**  
